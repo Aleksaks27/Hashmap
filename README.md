@@ -1,1 +1,1 @@
-The Hashmap class generates a bucket of a size n, which is an empty array of length n. The hasing algorithm takes a string and produces a unique code for it and converts it to an index. The methods within Hashmap perform different data retrieval and manipulation operations.
+The Hashmap class generates a bucket of a size n, which is an empty array of length n. The hashing algorithm takes a string and produces a unique code for it and converts it to an index. The methods within Hashmap perform different data retrieval and manipulation operations.
